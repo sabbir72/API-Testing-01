@@ -9,3 +9,6 @@ TOTAL ASSERTIONS - 1
 TOTAL FAILED TESTS - 1
 TOTAL SKIPPED TESTS - 0
 TOTAL REQUESTS -5
+
+Click Here.➡️
+[Live Report](https://sabbir72.github.io/API-Testing-01/)
